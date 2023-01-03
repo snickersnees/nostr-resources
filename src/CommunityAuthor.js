@@ -14,7 +14,7 @@ const CommunityAuthor = ({ name, imageUrl, twitterUrl, githubUrl, description })
             {twitterUrl ? (
               <a href={twitterUrl} target="_blank" rel="noopener noreferrer">
                 <img
-                  src="https://storage.googleapis.com/graphql-engine-cdn.hasura.io/learn-hasura/assets/social-media/twitter-icon.svg"
+                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                   alt="Twitter Icon"
                   aria-label="Twitter"
                 />
@@ -23,7 +23,7 @@ const CommunityAuthor = ({ name, imageUrl, twitterUrl, githubUrl, description })
             {githubUrl ? (
               <a href={githubUrl} target="_blank" rel="noopener noreferrer">
                 <img
-                  src="https://storage.googleapis.com/graphql-engine-cdn.hasura.io/learn-hasura/assets/social-media/github-icon.svg"
+                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                   alt="Github Icon"
                   aria-label="Github"
                 />
