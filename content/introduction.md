@@ -1,37 +1,25 @@
 ---
-title: "Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+title: "Nostr Resources"
+metaTitle: "A curated list of the best Nostr resources"
+metaDescription: "A curated list of the best Nostr resources"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+A curated list of the best Nostr resources
 
-# Heading H1
-Heading 1 text
+# Protocol
+- [Nostr Protocol](https://github.com/nostr-protocol/nostr)
 
-## Heading H2
-Heading 2 text
+# Relays
+- [NNostr](https://github.com/Kukks/NNostr)
 
-### Heading H3
-Heading 3 text
+# Instances
+- [Nostr.watch](https://nostr.watch/)
 
-#### Heading H4
-Heading 4 text
+# Clients
+- [Damus](https://github.com/damus-io/damus)
 
-##### Heading H5
-Heading 5 text
+# Libraries
+- [nostr-ruby](https://github.com/dtonon/nostr-ruby)
 
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-## Links
-
-* Relative: [Codeblock](/codeblock)
-* Absolute: [Demo](https://learn.hasura.io/graphql/react)
+# Gateways
+- [rsslay](https://github.com/fiatjaf/rsslay)
